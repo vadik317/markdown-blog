@@ -1,5 +1,5 @@
 **A very simple blog website that uses markdown for your posts!  
-All is powered by  `index.html`, where all the HTML, CSS, and JS does the job.**  
+All is powered by _a single html file (scaryyy)_, where all the HTML, CSS, and JS does the job.**  
 
 One day, I decided to create a blog, however, I couldn't find any easy to use repo, all of them had some fancy-pants framework or complex things like github actions and workflows, now, i'm going to assume that since you are reading this, i'm not the only one that can't for the life of me properly set up that, so I made a simpler solution:  
 
