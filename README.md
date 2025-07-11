@@ -16,6 +16,7 @@ There are some things I still need to do before this can be considered finalized
 </br>
 
 If you find any bugs, please submit an issue, and if you can help me out and contribute, make a pr, ill be very glad to receive some help!  
+
 ![Damn the image didn't load, it was supposed to be a cat in front of a laptop](/images/cat-sitting-on-laptop.webp)
 ---
 
