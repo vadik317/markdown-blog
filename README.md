@@ -20,6 +20,10 @@ If you find any bugs, please submit an issue, and if you can help me out and con
 ![Damn the image didn't load, it was supposed to be a cat in front of a laptop](/images/cat-sitting-on-laptop.webp)
 ---
 
+This project is intended to be able to run on any http server, so yes, you can test locally using `$ python -m http.server`, this also means that to set this up using github pages, you only need to enable them in your repo, as long as `index.html` exists, everythign will be done automatically.  
+Down below I have a simple guide on how to user this project.
+
+---
 Now, you may want to use this for yourself, and thats great! Here i'll provide a simple documentation on how everythign works.  
 To start, simply download this repo, and remove all my blogs from `/posts`, and also remove the references from `blogs.json`  
 Something I ommited earlier is that we use a separate `blogs.json` file to index our blogs, since doing api calls to github and checking every single file is not a great idea (and totally not because I dont know how to do it). This means every time you create a blog entry, you have to reference it here.
