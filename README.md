@@ -10,8 +10,9 @@ There are some things I still need to do before this can be considered finalized
 * Fix the indentation in the html
 * Extend the themes function to all css, so any color can be cohanged from config
 * Explain properly everything in documentation
-* Properly integrade the markdown parser to be nearly identical to github's parser  
-* Make the site more friendly towards mobiel devices
+* Properly integrade the markdown parser to be nearly identical to github's parser
+* Add the functionality for entry cards to have images
+* Make the site more friendly towards mobile devices
 
 </br>
 
@@ -20,7 +21,7 @@ If you find any bugs, please submit an issue, and if you can help me out and con
 ![Damn the image didn't load, it was supposed to be a cat in front of a laptop](/images/cat-sitting-on-laptop.webp)
 ---
 
-This project is intended to be able to run on any http server, so yes, you can test locally using `$ python -m http.server`, this also means that to set this up using github pages, you only need to enable them in your repo, as long as `index.html` exists, everythign will be done automatically.  
+This project is intended to be able to run on any http server, so yes, you can test locally using `$ python -m http.server`, this also means that to set this up using github pages, you only need to enable them in your repo, as long as `index.html` exists, everything will be done automatically.  
 Down below I have a simple guide on how to user this project.
 
 ---
