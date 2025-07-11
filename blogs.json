@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "title": "Why I love markdown",
+      "description": "I really like markdown and you should check it out!",
+      "file": "posts/why-markdown-is-cool.md",
+      "date": "11-07-2025",
+      "tags": ["programming","featured"],
+      "image": "images/image.webp"
+    }
+  ]
+}

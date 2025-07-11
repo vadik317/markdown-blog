@@ -1,0 +1,17 @@
+[
+  {
+    "id": "sans-serif",
+    "name": "Sans Serif",
+    "value": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+  },
+  {
+    "id": "serif",
+    "name": "Serif",
+    "value": "'Times New Roman', Times, Georgia, serif"
+  },
+  {
+    "id": "monospace",
+    "name": "Monospace",
+    "value": "'Ubuntu Mono', 'Courier New', Courier, monospace"
+  }
+]

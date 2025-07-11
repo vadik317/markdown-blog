@@ -1,0 +1,38 @@
+[
+  {
+    "id": "light",
+    "name": "Light",
+    "colors": {
+      "bgPrimary": "#ffffff",
+      "textPrimary": "#222222",
+      "containerBg": "#ffffff", 
+      "sidebarBg": "#f5f5f5",
+      "borderColor": "#e0e0e0",
+      "accentColor": "#c2d0e9",
+      "tagBg": "#888888",
+      "navStart": "#56ad74",
+      "navEnd": "#98a255",
+      "postItemBg": "#f5f5f5",
+      "postItemHover": "#e8e8e8",
+      "codeBg": "#eeeeeeff"
+    }
+  },
+  {
+    "id": "dark",
+    "name": "Dark",
+    "colors": {
+      "bgPrimary": "#121212",
+      "textPrimary": "#e0e0e0",
+      "containerBg": "#1e1e1e",
+      "sidebarBg": "#2a2a2a",
+      "borderColor": "#333333",
+      "accentColor": "#aaaaaa",
+      "tagBg": "#666666",
+      "navStart": "#444444",
+      "navEnd": "#222222",
+      "postItemBg": "#2a2a2a",
+      "postItemHover": "#333333",
+      "codeBg": "#2a2a2a"
+    }
+  }
+]
