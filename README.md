@@ -10,7 +10,7 @@ There are some things I still need to do before this can be considered finalized
 * Fix the indentation in the html
 * Extend the themes function to all css, so any color can be cohanged from config
 * Explain properly everything in documentation
-* Properly integrade the markdown parser to be nearly identical to github's parser
+* Properly integrade the markdown parser to integrafte Github Flavored Markdown (GFM)
 * Add the functionality for entry cards to have images
 * Make the site more friendly towards mobile devices
 
