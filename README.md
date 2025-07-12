@@ -8,6 +8,7 @@ You can check it out [here](https://vadik317.github.io/markdown-blog/).
 
 There are some things I still need to do before this can be considered finalized:
 * Fix the indentation in the html
+* Remove unused css
 * Extend the themes function to all css, so any color can be cohanged from config
 * Explain properly everything in documentation
 * Properly integrade the markdown parser to integrafte Github Flavored Markdown (GFM)
