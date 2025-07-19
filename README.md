@@ -13,7 +13,7 @@ There are some things I still need to do before this can be considered finalized
 * Explain properly everything in documentation
 * Properly integrade the markdown parser to integrafte Github Flavored Markdown (GFM)
 * Add the functionality for entry cards to have images
-* Make the site more friendly towards mobile devices
+* Make the site more friendly towards mobile devices (MAKE THE DAMN TOP MENU SMALLER)
 * Remove the scrollbars
 * Change the default (before loading) theme to just be a placeholder saying "loading"
 
