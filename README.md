@@ -14,6 +14,7 @@ There are some things I still need to do before this can be considered finalized
 * Properly integrade the markdown parser to integrafte Github Flavored Markdown (GFM)
 * Add the functionality for entry cards to have images
 * Make the site more friendly towards mobile devices
+* Remove the scrollbars
 
 </br>
 
