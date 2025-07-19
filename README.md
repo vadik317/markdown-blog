@@ -53,7 +53,7 @@ You should follow this simple structure as thats how the website works, also I r
 `//hi im a comment please don't put me in .json files `
 
 Next, this is how you configure your site in `config.json`:
-```json
+```js
 {
   "blogTitle": "Vadik317's Markdown Blog", //The main title at the top of the site
   "githubUrl": "https://github.com/vadik317/markdown-blog", //Link to this repo (you can change it :D)
