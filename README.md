@@ -15,6 +15,7 @@ There are some things I still need to do before this can be considered finalized
 * Add the functionality for entry cards to have images
 * Make the site more friendly towards mobile devices
 * Remove the scrollbars
+* Change the default (before loading) theme to just be a placeholder saying "loading"
 
 </br>
 
