@@ -64,7 +64,7 @@ Next, this is how you configure your site in `config.json`:
 ```  
 
 This is how you index one of your blogs, using the `blogs.json` file:
-```
+```js
 {
   "posts": [
     {
@@ -81,7 +81,7 @@ This is how you index one of your blogs, using the `blogs.json` file:
 
 Next, this is how to make a custom theme using the `themes.json` file:  
 (if you want to add some to the main branch I dont mind, submit a pr)  
-```
+```js
 [{
 "id": "light",   //id of the theme
 "name": "Light", //the displayed name of the theme
@@ -102,7 +102,7 @@ Next, this is how to make a custom theme using the `themes.json` file:
 ```
 
 Finally, this is how you add more font options using the `fonts.json` file:
-```
+```js
 [
   {
     "id": "sans-serif", //id of the font
@@ -113,7 +113,7 @@ Finally, this is how you add more font options using the `fonts.json` file:
 ```
 Note that you can include several fonts in one, this is because we want to have fallback fonts if one cannot render, in this case, we would first try _Segoe UI_, then _Roboto_, etc...  
 Another thing to note is that for now, if you wish to add custom fonts, you need to reference them in `index.html`, for example:
-```
+```html
 ...
 <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.7.0/build/highlight.min.js"></script>
 <!-- ubuntu mono font -->
